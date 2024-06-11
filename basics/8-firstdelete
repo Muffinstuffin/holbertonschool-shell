@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo rim /tmp/my_first_directory/Betty
+rm /tmp/my_first_directory/Betty
