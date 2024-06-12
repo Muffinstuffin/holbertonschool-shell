@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f -name "*.gif" -exec sh -c 'for f; do echo "${f##*/%.gif}"; done' sh
+find . -type f -name "*.gif" -exec sh -c 'for f; do echo 
