@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "An\ Acrostics" | tr -s ' '  '\n' | cut -c 
+cut -c 1 | paste -s -d '' 
